@@ -1,0 +1,6 @@
+numpy
+pandas
+flask
+
+# for consider the census-income as a package mention this
+-e .
